@@ -43,7 +43,7 @@ class _SignInScreenState extends State<SignInScreen> {
               SizedBox(
                 height: 50,
               ),
-              ElevatedButton(
+              RaisedButton(
                 onPressed: () {
                   if (_formKey.currentState.validate()) {
                     Navigator.of(context).pushReplacementNamed('/homeScreen');
