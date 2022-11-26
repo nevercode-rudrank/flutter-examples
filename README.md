@@ -7,7 +7,7 @@
 
 Main repository containing all the example apps demonstrating features/functionality/integrations in [Flutter](https://flutter.io/) application development
 
-### Featured In
+### Featured In All These Repositories
 
 - [Official Flutter Samples](https://github.com/flutter/samples/blob/d500d15c0f098b56e5bd549b32485cedba4843ef/INDEX.md#flutter-examples--)
 - [Flutter Weekly #11](https://mailchi.mp/5db146a7468b/flutter-weekly-11)
