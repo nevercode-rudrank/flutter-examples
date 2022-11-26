@@ -1,4 +1,4 @@
-# unit_testing
+# unit_testing project
 
 Example app demonstrating unit testing.
 
